@@ -1,0 +1,13 @@
+4.wait 1.free 1.inside 1.busy 1.done 0.docu
+start change end
+wait start
+free start
+start inside
+start busy
+inside change
+busy change
+change done
+change docu
+docu end
+end free
+
